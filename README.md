@@ -1,1 +1,1 @@
-# Academic_Management_System
+# 학사관리 시스템
