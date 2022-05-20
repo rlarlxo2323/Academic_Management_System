@@ -53,7 +53,7 @@ Java, Java Swing을 이용하여 학사, 수업, 수강 사용자 관리 기능�
 ![사용자 화면](image/uml.png)<br/>
 
 ### 2. Singleton 패턴</br>
-![정지선 인식](image/uml.png)<br/>
+![정지선 인식](image/사용자 화면.PNG)<br/>
 
 ## 5. 실행 화면
 
