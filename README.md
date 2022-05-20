@@ -30,7 +30,7 @@ Java, Java Swing을 이용하여 학사, 수업, 수강 사용자 관리 기능�
 ---
 
 ### UML-Usecase Diagram
-<img src="https://user-images.githubusercontent.com/81959996/167889309-5b9105f4-339e-4bba-ba86-9458a5e81436.png"></br>
+![사용자 화면](image/uml.PNG)<br/>
 
 ---
 
